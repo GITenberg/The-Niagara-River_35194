@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '1112'
     url: http://www.gutenberg.org/2009/agents/1112
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35194#The-Niagara-River
 gutenberg_issued: '2011-02-07'
 gutenberg_type: Text
 identifiers:
