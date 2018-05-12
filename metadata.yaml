@@ -1,0 +1,26 @@
+_repo: The-Niagara-River_35194
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35194-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hulbert, Archer Butler
+    birthdate: 1873
+    deathdate: 1933
+    gutenberg_agent_id: '1112'
+    url: http://www.gutenberg.org/2009/agents/1112
+description: ''
+gutenberg_issued: '2011-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35194'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Niagara River (N.Y. and Ont.)'
+- !lcc 'F106'
+title: The Niagara River
+url: http://www.gutenberg.org/ebooks/35194
